@@ -11,6 +11,7 @@
 - 🌱 **Fullstack software developer**
 
 - 📫 How to reach me **oscarian528@gmail.com**
+- **🚀 View my Portfolio:** [https://theeduke.github.io/](https://theeduke.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
