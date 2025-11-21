@@ -1,12 +1,12 @@
 # README
 <h1 align="center">Hi 👋, I'm Ian Oscar</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A Software Engineeer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theeduke&label=Profile%20views&color=0e75b6&style=flat" alt="theeduke" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theeduke&label=Profile%20views&color=0e75b6&style=flat" alt="theeduke" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theeduke" alt="theeduke" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ukethee" target="blank"><img src="https://img.shields.io/twitter/follow/@ukethee?logo=twitter&style=for-the-badge" alt="@ukethee" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@ukethee" target="blank"><img src="https://img.shields.io/twitter/follow/@ukethee?logo=twitter&style=for-the-badge" alt="@ukethee" /></a> </p> -->
 
 - 🌱 **Fullstack software developer**
 
